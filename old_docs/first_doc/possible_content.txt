@@ -1,0 +1,10 @@
+Wireless sensor networks are emerging as both an important new tier in the information technology ecosystem and a rich 
+domain of active research involving hardware and system design, networking, distributed algorithms, programming models, 
+data management, security, and social factors. Sensor networks provide a new kind of instrument, call it a macroscope, 
+that enables people to observe and interact with physical phenomena in real time at a fidelity that was previously 
+unobtainable. Such pervasive instrumentation will be of great value in a range of applications, including understanding
+ecosystem dynamics, setting land-use policy, protecting property, efficiently operating and managing machinery and 
+vehicles, establishing perimeter and building security, protecting packages and containers, monitoring supply chain 
+management, and helping deliver health care. To fully realize the vision of the embedded Internet, the related devices 
+must be small, unobtrusive, and expendable, and the network of potentially thousands of nodes must be cost-effective 
+to develop, deploy, program, utilize, and maintain

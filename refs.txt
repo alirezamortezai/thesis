@@ -1,0 +1,3 @@
+http://www.ics.hawaii.edu/research/research-profiles/research-profile-random-network-topologies/
+http://en.wikipedia.org/wiki/Unit_disk_graph
+http://journals.aps.org/pre/abstract/10.1103/PhysRevE.66.016121

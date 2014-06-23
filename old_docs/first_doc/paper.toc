@@ -1,0 +1,24 @@
+\contentsline {section}{Summary}{i}
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}Background}{1}
+\contentsline {subsubsection}{\numberline {1.1.1}Wireless Network Sensors}{1}
+\contentsline {subsubsection}{\numberline {1.1.2}TinyOS}{2}
+\contentsline {subsubsection}{\numberline {1.1.3}TOSSIM}{5}
+\contentsline {subsection}{\numberline {1.2}Purpose}{6}
+\contentsline {section}{\numberline {2}Network Simulation}{7}
+\contentsline {subsection}{\numberline {2.1}Architecture}{7}
+\contentsline {subsubsection}{\numberline {2.1.1}Components}{7}
+\contentsline {subsubsection}{\numberline {2.1.2}Compositions}{9}
+\contentsline {subsection}{\numberline {2.2}Concurrency model}{9}
+\contentsline {subsection}{\numberline {2.3}Network Protocol}{11}
+\contentsline {subsubsection}{\numberline {2.3.1}Message Format}{11}
+\contentsline {subsubsection}{\numberline {2.3.2}Communication Scheme}{12}
+\contentsline {subsection}{\numberline {2.4}Simulation driver}{14}
+\contentsline {subsection}{\numberline {2.5}Topologies}{15}
+\contentsline {subsubsection}{\numberline {2.5.1}Requirements}{16}
+\contentsline {subsubsection}{\numberline {2.5.2}UI Specification}{16}
+\contentsline {section}{\numberline {3}Conclusion}{19}
+\contentsline {subsection}{\numberline {3.1}Requirement revisited}{19}
+\contentsline {subsection}{\numberline {3.2}Characteristics and Limitations}{19}
+\contentsline {subsubsection}{\numberline {3.2.1}characteristics}{20}
+\contentsline {subsubsection}{\numberline {3.2.2}limitation}{20}

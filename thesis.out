@@ -1,0 +1,33 @@
+\BOOKMARK [0][-]{chapter*.1}{List of Figures}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{List of Tables}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Wireless Sensor Networks \(WSN\)}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Problem Statement}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.3}{Related Work}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Discrete Anonymity Sets \(DAS\) Model of Privacy}{}% 7
+\BOOKMARK [1][-]{section.2.1}{Threat Model}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.2}{Network Model}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.1}{Topological Arrangements}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.2}{Communication Model}{section.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.3}{Routing}{section.2.2}% 12
+\BOOKMARK [1][-]{section.2.3}{Cost Model}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.4}{Analytical Boundaries}{chapter.2}% 14
+\BOOKMARK [0][-]{chapter.3}{Experimental Methods}{}% 15
+\BOOKMARK [1][-]{section.3.1}{Simulation Framework}{chapter.3}% 16
+\BOOKMARK [2][-]{subsection.3.1.1}{TinyOS and Tossim}{section.3.1}% 17
+\BOOKMARK [2][-]{subsection.3.1.2}{Network Configuration and Setup}{section.3.1}% 18
+\BOOKMARK [2][-]{subsection.3.1.3}{Packet Format}{section.3.1}% 19
+\BOOKMARK [2][-]{subsection.3.1.4}{Topology Generation}{section.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.1.5}{Limitations and Considerations}{section.3.1}% 21
+\BOOKMARK [1][-]{section.3.2}{Simulation Scenarios}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.2.1}{Grid Topology}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.2}{Random Network}{section.3.2}% 24
+\BOOKMARK [0][-]{chapter.4}{Experimental Results}{}% 25
+\BOOKMARK [1][-]{section.4.1}{Grid Topology}{chapter.4}% 26
+\BOOKMARK [2][-]{subsection.4.1.1}{Case 1: a O\(n\)}{section.4.1}% 27
+\BOOKMARK [2][-]{subsection.4.1.2}{Case 2: a > O\(n\)}{section.4.1}% 28
+\BOOKMARK [1][-]{section.4.2}{Random Topology}{chapter.4}% 29
+\BOOKMARK [2][-]{subsection.4.2.1}{Case 1: a O\(d\)}{section.4.2}% 30
+\BOOKMARK [2][-]{subsection.4.2.2}{Case 2: a > O\(d\)}{section.4.2}% 31
+\BOOKMARK [0][-]{chapter.5}{Conclusion}{}% 32
+\BOOKMARK [0][-]{chapter.5}{References}{}% 33
